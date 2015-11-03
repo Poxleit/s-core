@@ -1,0 +1,1 @@
+Core for the Shadowcrown project, based on CMaNGOS
